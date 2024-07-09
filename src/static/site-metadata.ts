@@ -10,7 +10,7 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: '运动记录✨ | 階上生活',
+  siteTitle: 'Running✨',
   siteUrl: 'https://fit.upstairs.cn',
   logo: 'https://moment.upstairs.cn/assets/img/logo.svg',
   description: '小夏同学的健身慢跑生活。',
