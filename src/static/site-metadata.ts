@@ -10,18 +10,18 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Running Page',
-  siteUrl: 'https://yihong.run',
-  logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
-  description: 'Personal site and blog',
+  siteTitle: '运动记录✨ | 階上生活',
+  siteUrl: 'https://fit.upstairs.cn',
+  logo: 'https://moment.upstairs.cn/assets/img/logo.svg',
+  description: '小夏同学的健身慢跑生活。',
   navLinks: [
     {
-      name: 'Blog',
-      url: 'https://github.com/yihong0618/gitblog',
+      name: '絮语',
+      url: 'https://moment.upstairs.cn',
     },
     {
-      name: 'About',
-      url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
+      name: '关于',
+      url: 'https://about.upstairs.cn',
     },
   ],
 };
